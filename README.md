@@ -9,13 +9,15 @@
 
 ## 本书章节 
 
-[关于这本书，你需要知道的事](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/%E5%85%B3%E4%BA%8E%E8%BF%99%E6%9C%AC%E4%B9%A6%EF%BC%8C%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B) 
-
-[关于作者](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85) 
-
-3. [取幂符（\*\*）](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/3.%E5%8F%96%E5%B9%82%E7%AC%A6%EF%BC%88/*/*%EF%BC%89) 
-4. [ES2016特性：Array.prototype.includes](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/ES2016%E7%89%B9%E6%80%A7%EF%BC%9A4.Array.prototype.includes) 
-5. [ES提案：Object.entries和Object.values](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/ES%E6%8F%90%E6%A1%88%EF%BC%9AObject.entries%E5%92%8CObject.values) 
+* [关于这本书，你需要知道的事](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/%E5%85%B3%E4%BA%8E%E8%BF%99%E6%9C%AC%E4%B9%A6%EF%BC%8C%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B) 
+* [关于作者](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85) 
+3. [取幂符（\*\*）](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/3.取幂符) 
+4. [ES2016特性：Array.prototype.includes](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/4.ES2016特性：Array.prototype.includes) 
+5. [ES提案：Object.entries和Object.values](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/5.ES提案：Object.entries()和Object.values()) 
+6. [新的字符串方法： padStart 和 padEnd](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/6.新的字符串方法：padStart和padEnd)
+7. [Object.getOwnPropertyDescriptors()](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/7.Object.getOwnPropertyDescriptors())
+8. [在函数参数或者调用中的逗号后缀](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/8.在函数参数或者调用中的逗号后缀)
+9. [异步函数](https://ecmascript-china.github.io/9.异步函数)
 
 ## 感谢支持译者翻译 
 
