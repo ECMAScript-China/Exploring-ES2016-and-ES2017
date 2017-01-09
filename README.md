@@ -1,5 +1,7 @@
 # 探索ES2016和ES2017 
 
+![asd](http://exploringjs.com/es2016-es2017/images/cover.jpg)
+
 本书翻译自《[Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html)》原作者：[Axel Rauschmayer](https://twitter.com/rauschma) 
 
 - 作者：[砖雕艺术家](http://wpa.qq.com/msgrd?v=3&uin=806321554&site=qq&menu=yes)，[小文青又有点发神经](http://wpa.qq.com/msgrd?v=3&uin=495406537&site=qq&menu=yes) 
