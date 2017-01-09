@@ -15,11 +15,20 @@
 
 * [关于作者](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/%E5%85%B3%E4%BA%8E%E4%BD%9C%E8%80%85) 
 
+---
+### I 写作背景
+
 2. [常见问题：ES2016和ES2017](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/2.常见问题：ES2016和ES2017)
+
+---
+### II ECMAScript 2016
 
 3. [取幂符（\*\*）](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/3.取幂符) 
 
 4. [ES2016特性：Array.prototype.includes](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/4.ES2016特性：Array.prototype.includes) 
+
+---
+### III ECMAScript 2017
 
 5. [ES提案：Object.entries和Object.values](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/5.ES提案：Object.entries()和Object.values()) 
 
