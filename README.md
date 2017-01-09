@@ -1,6 +1,6 @@
 # 探索ES2016和ES2017 
 
-![asd](http://exploringjs.com/es2016-es2017/images/cover.jpg)
+![探索ES2016和ES2017](cover.jpg)
 
 本书翻译自《[Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html)》原作者：[Axel Rauschmayer](https://twitter.com/rauschma) 
 
