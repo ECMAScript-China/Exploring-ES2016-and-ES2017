@@ -36,14 +36,13 @@
 
 5. [ES提案：Object.entries和Object.values](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/5.ES提案：Object.entries()和Object.values()) 
 
-6. [新的字符串方法： padStart 和 padEnd](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/6.新的字符串方法：padStart和padEnd) 
+6. [新的字符串方法：padStart和padEnd](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/6.新的字符串方法：padStart和padEnd) 
 
 7. [Object.getOwnPropertyDescriptors()](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/7.Object.getOwnPropertyDescriptors()) 
 
 8. [在函数参数列表和调用时后缀逗号](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/8.%E5%9C%A8%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8%E5%92%8C%E8%B0%83%E7%94%A8%E6%97%B6%E5%90%8E%E7%BC%80%E9%80%97%E5%8F%B7) 
 
 9. [异步函数](https://ecmascript-china.github.io/9.异步函数) 
-
 
 ## 感谢支持译者翻译 
 
