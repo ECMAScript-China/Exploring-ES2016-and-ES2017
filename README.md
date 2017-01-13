@@ -4,8 +4,8 @@
 
 本书翻译自《[Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/index.html)》原作者：[Axel Rauschmayer](https://twitter.com/rauschma) 
 
-- 作者：[砖雕艺术家](http://wpa.qq.com/msgrd?v=3&uin=806321554&site=qq&menu=yes)，[小文青又有点发神经](http://wpa.qq.com/msgrd?v=3&uin=495406537&site=qq&menu=yes) 
-- QQ号：806321554，495406537 
+- 作者：[BrickCarvingArtist](https://github.com/BrickCarvingArtist)，[Cydiacen](https://github.com/cydiacen) 
+- QQ号：[806321554](http://wpa.qq.com/msgrd?v=3&uin=806321554&site=qq&menu=yes)，[495406537](http://wpa.qq.com/msgrd?v=3&uin=495406537&site=qq&menu=yes) 
 - QQ群：[精通JavaScript](http://shang.qq.com/wpa/qunwpa?idkey=226270a3946e49c5f321887c845c4328da8b4cf8ca966e17f1dba921a3a5f98c) 
 - QQ群号：423136967 
 
