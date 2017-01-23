@@ -19,7 +19,7 @@
 
 ### I 写作背景 
 
-1.[背景](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/1.背景)
+1. [背景](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/1.背景)
 
 2. [常见问题：ES2016和ES2017](https://ecmascript-china.github.io/Exploring-ES2016-and-ES2017/2.常见问题：ES2016和ES2017)
 
